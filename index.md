@@ -1,10 +1,6 @@
 # A Better Route Planner Tutorial
 
-## Getting Started
-
-### The ABRP Website
-
-![](screen-captures/abrp-website-1st-visit.png)
+## [Getting Started](6.1/getting-started.md)
 
 ## The Trips
 
