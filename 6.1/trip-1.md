@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trip 1: A short drive in town
+title: Trip 1
 permalink: /trip-1/
 ---
 
