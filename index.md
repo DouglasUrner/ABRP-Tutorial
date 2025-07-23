@@ -4,11 +4,10 @@
 
 layout: home
 ---
-# A Better Route Planner Tutorial
 
 ## [Getting Started](6.1/getting-started.md)
 
-## The Trips
+## Planning Trips
 
 We'll plan three trips that will illustrate some common uses of ABRP
 
@@ -20,3 +19,4 @@ For this one our goal is to get ABRP set up and start getting familiar with the 
 
 ### [Road Trip #2: A Sight Seeing Trip Where You Want A Particular Route](6.1/trip-3.md)
 
+## On the Road
