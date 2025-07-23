@@ -1,3 +1,8 @@
+---
+layout: page
+title: Getting Started
+permalink: /getting-started/
+---
 # Getting Started
 
 ## A Tour of the ABRP Website
