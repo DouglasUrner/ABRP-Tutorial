@@ -6,9 +6,11 @@
 
 We'll plan three trips that will illustrate some common uses of ABRP
 
-### First Time Out: An Impromptu Run To the Airport
+### [First Time Out: A Short Drive in Town](6.1/trip-1.md)
 
-### Road Trip #1: A Long Distance Trip Where ABRP Sets the Route
+For this one our goal is to get ABRP set up and start getting familiar with the ABRP user interface (UI) by planning a short local trip. You'll plan the trip using the ABRP website and then actually drive the route using ABRP on your phone.
 
-### Road Trip #2: A Sight Seeing Trip Where You Want A Particular Route
+### [Road Trip #1: A Long Distance Trip Where ABRP Sets the Route](6.1/trip-2.md)
+
+### [Road Trip #2: A Sight Seeing Trip Where You Want A Particular Route](6.1/trip-3.md)
 
