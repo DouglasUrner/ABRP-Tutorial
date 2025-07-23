@@ -4,6 +4,7 @@
 
 layout: home
 ---
+This tutorial will introduce you to planning road trips in your EV using [A Better Route Planner](https://abetterrouteplanner.com).
 
 ## [Getting Started](6.1/getting-started.md)
 
