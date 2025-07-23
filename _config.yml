@@ -30,8 +30,9 @@ github_username:  douglasurner
 header_pages:
  - 6.1/getting-started.md
  - 6.1/trip-1.md
- - trip-2.md
- - trip-3.md
+ - 6.1/trip-2.md
+ - 6.1/trip-3.md
+ - 6.1/necessary-and-nice.md
 
 # Build settings
 markdown: kramdown
