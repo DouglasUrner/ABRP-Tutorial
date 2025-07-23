@@ -28,7 +28,7 @@ url: "https://douglasurner.github.io" # the base hostname & protocol for your si
 bluesky_username: 
 github_username:  douglasurner
 header_pages:
- - {{ site.abrp_release }}/getting-started.md
+ - 6.1/getting-started.md
  - 6.1/trip-1.md
  - trip-2.md
  - trip-3.md
