@@ -3,7 +3,9 @@ layout: page
 title: Equipment
 permalink: /equipment/
 ---
-What you'll need:
+To get started, all you need is a device with a web browser, the A Better Route Planner (ABRP) website lets you explore the planning features and get a sense of how the driving mode works. So, there is no reason not to dive in and see if ABRP might work for you.
+
+If you think it's a go, then a phone is pretty much required if you want to use ABRP for navigation and real-time monitoring of your energy consumption (and thus range and charging options). The list below breaks down the gear that you need or might want.
 
 # Essential
 
@@ -23,6 +25,7 @@ What you'll need:
 
 # Nice To Have
 
+* A laptop or desktop computer for planning.
 * The ChargePoint app.
 * Apps for any of the charging networks that you use on a regular basis.
 
